@@ -1,0 +1,14 @@
+C:\Users\РомаИлиля\Desktop\Task33\task33\bin\Debug\net8.0\task33.exe
+C:\Users\РомаИлиля\Desktop\Task33\task33\bin\Debug\net8.0\task33.deps.json
+C:\Users\РомаИлиля\Desktop\Task33\task33\bin\Debug\net8.0\task33.runtimeconfig.json
+C:\Users\РомаИлиля\Desktop\Task33\task33\bin\Debug\net8.0\task33.dll
+C:\Users\РомаИлиля\Desktop\Task33\task33\bin\Debug\net8.0\task33.pdb
+C:\Users\РомаИлиля\Desktop\Task33\task33\obj\Debug\net8.0\task33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РомаИлиля\Desktop\Task33\task33\obj\Debug\net8.0\task33.AssemblyInfoInputs.cache
+C:\Users\РомаИлиля\Desktop\Task33\task33\obj\Debug\net8.0\task33.AssemblyInfo.cs
+C:\Users\РомаИлиля\Desktop\Task33\task33\obj\Debug\net8.0\task33.csproj.CoreCompileInputs.cache
+C:\Users\РомаИлиля\Desktop\Task33\task33\obj\Debug\net8.0\task33.dll
+C:\Users\РомаИлиля\Desktop\Task33\task33\obj\Debug\net8.0\refint\task33.dll
+C:\Users\РомаИлиля\Desktop\Task33\task33\obj\Debug\net8.0\task33.pdb
+C:\Users\РомаИлиля\Desktop\Task33\task33\obj\Debug\net8.0\task33.genruntimeconfig.cache
+C:\Users\РомаИлиля\Desktop\Task33\task33\obj\Debug\net8.0\ref\task33.dll
