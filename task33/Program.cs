@@ -50,13 +50,6 @@ int[] getArray(int[,] arr)
     return myArr;
 }
 
-void printArray(int[] arr) 
-{
-    for (int i = 0; i < arr.Length; i++)
-    {
-        Console.WriteLine(arr[i]);
-    }
-}
 
 int[] getMainDiag(int[,] arr)
 {
@@ -111,9 +104,6 @@ int rows = message("Введите количество строк матриц�
 int columns = message("Введите количество столбцов матрицы");
 int[,] matrix = getMatrix(rows,columns);
 printMatrix(matrix);
-Console.WriteLine();
-int[] array = getArray(matrix);
-printArray(array);
 Console.WriteLine();
 Console.WriteLine();
 int[] mainDiag = getMainDiag(matrix);
